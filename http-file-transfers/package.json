@@ -1,0 +1,10 @@
+{
+  "name": "http-file-transfers",
+  "description": "Uploading an Image to a Node.js Server Without Using Any Libraries",
+  "author": "m01d, R0bb5rt Wh1t5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
