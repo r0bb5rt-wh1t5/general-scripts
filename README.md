@@ -5,11 +5,11 @@ separate repository, but they were fun to write and I learned something new whil
 
 ## List of scripts
 
-- **http-file-transfers** - [Uploading an Image to a Server Without Using Any Libraries](https://www.youtube.com/watch?v=bzrqkm_r40M)
+- **http-file-transfers** - [Uploading an Image to a Server Without Using Any Libraries]()
 
-- **alexbers-com-sql** - [How to Complete All Levels of the SQL Injection Challenge on alexbers.com](https://www.youtube.com/watch?v=V-gGLaEVnpg)
+- **alexbers-com-sql** - [How to Complete All Levels of the SQL Injection Challenge on alexbers.com]()
 
-- **zixem-altervista-org** - [How to Complete All Zixem Challenges | Part 1 «SQLi»](https://www.youtube.com/watch?v=lnxwrQrY4qU)
+- **zixem-altervista-org** - [How to Complete All Zixem Challenges | Part 1 «SQLi»]()
 
 - **punched-card**
 
